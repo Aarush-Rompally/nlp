@@ -3,6 +3,7 @@ Project outlined in wayfair.ipynb, or alternatively, in wayfair.html.
 Python version 3.11.14, miniconda environment contains following packages:
 
 Name                         Version
+
 anyio                        4.10.0 
 appnope                      0.1.4        
 argon2-cffi                  25.1.0          
