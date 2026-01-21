@@ -1,1 +1,1 @@
-# wayfair
+Project outlined in wayfair.ipynb.
