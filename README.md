@@ -1,4 +1,5 @@
-Project outlined in wayfair.ipynb, or alternatively, in wayfair.html. 
+Project outlined in wayfair.ipynb, or alternatively, in wayfair.html.
+
 Python version 3.11.14, miniconda environment contains following packages:
 
 # Name                       Version
