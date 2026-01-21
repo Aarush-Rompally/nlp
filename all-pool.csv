@@ -1,0 +1,30 @@
+sentence_1,sentence_2,cos_sim_mean_pool,cos_sim_cls_pool
+comfortable,This is the most comfortable sofa ever.,0.6175254583,0.6619394422
+comfortable,This is the most uncomfortable sofa ever.,0.4736631215,0.5438529253
+comfortable,comfortable,1,1
+comfortable,very comfortable,0.9383695126,0.9750195742
+comfortable,"Loved this sofa, definitely a good one.",0.6273881197,0.6772912145
+comfortable,"Hated this sofa, comfortable but should not buy because the color is obscene.",0.436113745,0.5089682341
+comfortable,Cozy and nice.,0.8528815508,0.9006291628
+comfortable,Cozy but would not buy.,0.6117398739,0.6672070026
+This is the most comfortable sofa ever.,This is the most uncomfortable sofa ever.,0.8111007214,0.8363381028
+This is the most comfortable sofa ever.,very comfortable,0.6978672743,0.7184770107
+This is the most comfortable sofa ever.,"Loved this sofa, definitely a good one.",0.812307179,0.8530505896
+This is the most comfortable sofa ever.,"Hated this sofa, comfortable but should not buy because the color is obscene.",0.5757401586,0.6302263737
+This is the most comfortable sofa ever.,Cozy and nice.,0.5711512566,0.6200218201
+This is the most comfortable sofa ever.,Cozy but would not buy.,0.3769736588,0.4437995553
+This is the most uncomfortable sofa ever.,very comfortable,0.519489646,0.5785102844
+This is the most uncomfortable sofa ever.,"Loved this sofa, definitely a good one.",0.608430922,0.6708190441
+This is the most uncomfortable sofa ever.,"Hated this sofa, comfortable but should not buy because the color is obscene.",0.6897519827,0.760891974
+This is the most uncomfortable sofa ever.,Cozy and nice.,0.4224311113,0.5084685087
+This is the most uncomfortable sofa ever.,Cozy but would not buy.,0.4074951112,0.4977482855
+very comfortable,"Loved this sofa, definitely a good one.",0.694475472,0.7257142663
+very comfortable,"Hated this sofa, comfortable but should not buy because the color is obscene.",0.4767480493,0.5280536413
+very comfortable,Cozy and nice.,0.8601152301,0.9007192254
+very comfortable,Cozy but would not buy.,0.5821489692,0.649023056
+"Loved this sofa, definitely a good one.","Hated this sofa, comfortable but should not buy because the color is obscene.",0.5976371765,0.6417384148
+"Loved this sofa, definitely a good one.",Cozy and nice.,0.6494038701,0.6819081903
+"Loved this sofa, definitely a good one.",Cozy but would not buy.,0.4217687845,0.4693740904
+"Hated this sofa, comfortable but should not buy because the color is obscene.",Cozy and nice.,0.4552655518,0.498580873
+"Hated this sofa, comfortable but should not buy because the color is obscene.",Cozy but would not buy.,0.6188707352,0.6715282202
+Cozy and nice.,Cozy but would not buy.,0.6345539093,0.7059972882
